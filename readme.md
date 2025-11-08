@@ -3,7 +3,7 @@
 
 ![ecommerce-homepage](https://raw.githubusercontent.com/RishiBakshii/mern-ecommerce/refs/heads/main/frontend/src/assets/images/front.png)
 <!-- ![ecommerce-banner](https://github.com/RajChavan/mern-ecommerce/blob/main/frontend/src/assets/images/banner4.jpg?raw=true) -->
-![ecommerce-banner](https://github.com/RajChavan/mern-ecommerce/blob/main/frontend/src/assets/images/banner3.jpg?raw=true)
+![ecommerce-banner](https://raw.githubusercontent.com/RishiBakshii/mern-ecommerce/refs/heads/main/frontend/src/assets/images/banner3.jpg)
 
 
 # **Features**
